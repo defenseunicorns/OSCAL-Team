@@ -1,8 +1,13 @@
-# OSCAL-Team
-Dash Days of Summer OSCAL Proof of Concept 
+# Background
+Software accreditation and security remains a key obstacle in deploying and achieving continuous software delivery in regulated environments. NIST’s OSCAL project presents an opportunity to help streamline the software accreditation process by providing an avenue to express government-required security controls information as machine-readable formats (XML, JSON, YAML). These machine-readable formats can be ingested into Governance, Risk, and Compliance (GRC) tooling and presented as dashboards, visualizations, etc. 
+
+## Defense Unicorns OSCAL-Team
+Defense Unicorns holds internal research & development (IRAD) days 1x per month for two days at a time. These days are referred to as “Dash Days.” Defense Unicorns is currently holding “Dash Days of Summer - 2022.” “Dash Days of Summer” is a series of three Dash Days, equating to 6-7 days over a three month period in which a consistent group of Defense Unicorns engineers will decompose and tackle a complex software delivery problem. 
+Defense Unicorns' OSCAL-Team is dedicating Dash Days between July and September 2022 to creation of an OSCAL proof of concept aligned with the project objective above. 
+We welcome open contributions to this effort. Contributing guidelines shall be published shortly. 
 
 ## Purpose
-Aggregate documentation for the Dash Days OSCAL team as we iterate toward an initial Proof-of-Concept
+This project aims to leverage and extend NIST’s OSCAL work to improve security and risk assessments, increase optionality in tooling and drive greater commercial software adoption. This repo will aggregate documentation first for the Dash Days OSCAL team as we iterate toward an initial Proof-of-Concept.
 
 ## Decision Records
 [ADR 7-15-22](./ADR/ADR-7-15.md)
