@@ -26,7 +26,7 @@ Review included open source projects and repos and policy engines and policy rep
 
 [K8s-to-oscal] (https://github.com/kubernetes-sigs/wg-policy-prototypes/tree/master/policy-report/oscal-transformer) working group
 Findings
-  - uses Kyverno as a policy enforce and [compliance-trestle] (https://github.com/IBM/compliance-trestle) as transfomer for K8S UAML to OSCAL JSON
+  - uses Kyverno as a policy enforce and [compliance-trestle] (https://github.com/IBM/compliance-trestle) as transfomer for K8S YAML to OSCAL JSON
   - Highly opinionated based on the policy; presents a high barrier to entry for complex rule-sets such as NIST 8005-3
 
 
