@@ -17,7 +17,7 @@ points along that value stream:
 At the conclusion of Dash Days 1 the team determined that the best way ahead was to focus narrowly on the developer persona and specifically on the pain associated with manual generation of tool-specific OSCAL documentation.
 However, upon revisiting the value stream it became clear that shifting the focus of the PoV downstream to configuration-specific documentation and auditing could potentially reduce pain and churn for the other personas. 
 
-We hypothesized that creation of an extensible tool that can combine compliance rule-sets (standards) with automated validation could over tiem streamline and potentially speed the security compliance and accreditation processes for software. 
+We hypothesized that creation of an extensible tool that can combine compliance rule-sets (standards) with automated validation could over time streamline and potentially speed the security compliance and accreditation processes for software. 
 
 ## Analysis
 The team reviewed the known, existing body of work to validate the full solution space. 
