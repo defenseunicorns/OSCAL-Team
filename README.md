@@ -11,6 +11,8 @@ This project aims to leverage and extend NIST’s OSCAL work to improve security
 
 ## Decision Records
 [ADR 7-15-22](./ADR/ADR-7-15.md)
+[ADR 8-18-22](./ADR/ADR-8-18.md)
+[ADR 9-14-22](./ADR/ADR-9-14.md)
 
 ## Relevant Material
 
